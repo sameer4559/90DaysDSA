@@ -13,5 +13,11 @@ day 3: Introduction to Recursion,Use of Recursion,Visualising Recursion (Recursi
 day 4: Time complexity for recurrence relation and akhra bazzi theorem basics.
 
 8/12/2021
-day 5: Recession Basic problem and java practice for array and find some projects.
+day 5: Recursion Basic problem and java practice for array and find some projects.
+
+9/12/2021
+day 6: Recursion problems.
+
+11/12/2021
+day 7 : Recursion Array problems sorted array and Linear search.
 
