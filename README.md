@@ -21,3 +21,21 @@ day 6: Recursion problems.
 11/12/2021
 day 7 : Recursion Array problems sorted array and Linear search.
 
+12/12/2021 
+sunday
+
+13/12/2021
+Whole Arrays part
+
+14/12/2021 
+waste of time
+
+15/12/2021
+Recussion problem using arrays
+
+16/12/2021
+time waste
+
+17/12/2021
+Recussion pattern problems.
+
